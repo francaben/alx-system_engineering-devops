@@ -1,1 +1,1 @@
-Work to home directory
+Current directory content details
