@@ -1,1 +1,1 @@
-Deleting file from a directory
+Delete my directory from tmp
