@@ -1,1 +1,1 @@
-Display list readme
+Work to home directory
