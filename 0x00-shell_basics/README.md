@@ -1,1 +1,1 @@
-my way of displaying content list
+Display list readme
