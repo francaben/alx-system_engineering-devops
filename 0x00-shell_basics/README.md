@@ -1,1 +1,1 @@
-script that lists all files
+script for file type
