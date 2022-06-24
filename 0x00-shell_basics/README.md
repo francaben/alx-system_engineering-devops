@@ -1,1 +1,1 @@
-Delete my directory from tmp
+a script to change working to previous directory
