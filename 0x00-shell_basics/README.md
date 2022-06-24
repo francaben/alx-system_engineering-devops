@@ -1,1 +1,1 @@
-Display directory contents with hidden ones
+Display long format content with IDs

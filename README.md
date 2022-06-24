@@ -1,1 +1,1 @@
-Display all contents with hidden ones
+Long format content with IDs
