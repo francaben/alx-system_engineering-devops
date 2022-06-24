@@ -1,1 +1,1 @@
-Display contents
+Display all contents with hidden ones
