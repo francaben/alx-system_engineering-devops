@@ -1,1 +1,1 @@
-moving uppercase files
+Script to delete ~ files
