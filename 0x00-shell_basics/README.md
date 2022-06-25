@@ -1,1 +1,1 @@
-script for creating many directories
+script to list orderly
