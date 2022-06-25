@@ -1,1 +1,1 @@
-script to list orderly
+create magic file
