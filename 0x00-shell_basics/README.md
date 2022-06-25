@@ -1,1 +1,1 @@
-Script to delete ~ files
+script for creating many directories
