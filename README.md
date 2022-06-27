@@ -1,1 +1,1 @@
-magic file
+My hello script
