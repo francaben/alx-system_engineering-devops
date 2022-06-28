@@ -1,1 +1,1 @@
-My hello script
+My redirect readme
