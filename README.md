@@ -1,1 +1,1 @@
-My redirect readme
+Script that prints hello world

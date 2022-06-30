@@ -1,1 +1,1 @@
-My script to print smiley
+Script for hello world
